@@ -1,0 +1,2 @@
+# excursion
+Exercise for codecademy
